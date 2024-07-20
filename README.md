@@ -1,2 +1,2 @@
-# photo_editor_app
- Dynamic Text Editor
+# Dynamic Text Editor
+ 
