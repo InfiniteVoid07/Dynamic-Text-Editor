@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096323371995",
+    "project_id": "celebrare-photo-editor",
+    "storage_bucket": "celebrare-photo-editor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096323371995:android:830e289691ebd673da4dfe",
+        "android_client_info": {
+          "package_name": "com.example.celebrare_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxlORipHl00I9PiAdQGy26BIRnsTap-Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
